@@ -1,7 +1,7 @@
 # frontend-assessment
 
 ## Overview 
-Code Assesment For Filta Frontend Positon
+Code Assessment For Filta - Frontend Developer Positon
 
 ## Project setup
 
