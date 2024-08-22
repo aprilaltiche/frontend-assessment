@@ -82,6 +82,12 @@ export default {
         },
         
     },
+    methods: {
+    handleButtonClick() {
+      console.log('Button clicked in HomePage!');
+      // Your logic here
+    }
+  }
 
 };
 </script>

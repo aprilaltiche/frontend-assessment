@@ -50,7 +50,7 @@ export default {
     },
   },
   methods: {
-    handleClick(event) {
+    handleButtonClick(event) {
       if (!this.isDisabled && !this.isLoading) {
         this.$emit("click", event);
       }

@@ -7,6 +7,6 @@ import './assets/styles/index.scss';  // Import global styles
 // Create the Vue app instance and attach it to the DOM element with id 'app'
 
 createApp(App)
-  .use(store)
-  .use(router)  // Tell Vue to use the router
+  .use(router)
+  .use(store)  // Tell Vue to use the router
   .mount('#app');

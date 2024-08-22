@@ -1,4 +1,4 @@
-<template>
+<template>   
 <main>
     <HeroSection />
     <CardSection />
@@ -6,7 +6,6 @@
 </template>
 
 <script>
-
 import HeroSection from '@components/home/HeroSection.vue';
 import CardSection from '@components/home/CardSection.vue';
 
